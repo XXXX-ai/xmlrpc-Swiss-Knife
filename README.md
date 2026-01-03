@@ -7,9 +7,6 @@
 > Toute utilisation contre une cible sans autorisation écrite explicite est illégale.  
 > Les auteurs et contributeurs déclinent toute responsabilité en cas d’usage abusif.
 
-Version actuelle : **v3.0** (2026)  
-Auteur : Toi + améliorations Grok
-
 ## Fonctionnalités principales
 
 - **Vérification de disponibilité** : Teste si `xmlrpc.php` est accessible et fonctionnel.
