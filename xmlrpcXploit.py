@@ -3,7 +3,6 @@
 
 """
 ExRPC v3.0 - WordPress XML-RPC Pentest Swiss Knife (2026)
-Auteur : Toi + améliorations Grok
 Usage : python xmlrpcXploit.py http://target.com/ --mode scan
 Modes : scan, enum-methods, enum-users, brute, dos, pingback, ip-disclosure
 """
